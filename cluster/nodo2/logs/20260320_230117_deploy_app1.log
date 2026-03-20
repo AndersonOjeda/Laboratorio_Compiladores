@@ -1,0 +1,4 @@
+[nodo2] comando: bash cluster/nodo2/scripts/deploy_app1.sh
+[nodo2] codigo_salida: 0
+========== DEPLOY ==========
+Nodo: nodo2

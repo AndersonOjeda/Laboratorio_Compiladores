@@ -1,0 +1,4 @@
+[nodo3] comando: bash cluster/nodo3/scripts/update.sh
+[nodo3] codigo_salida: 0
+========== UPDATE ==========
+Nodo: nodo3

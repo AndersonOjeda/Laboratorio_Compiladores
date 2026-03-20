@@ -1,0 +1,4 @@
+[nodo2] comando: bash cluster/nodo2/scripts/update.sh
+[nodo2] codigo_salida: 0
+========== UPDATE ==========
+Nodo: nodo2

@@ -1,0 +1,5 @@
+[nodo3] comando: bash cluster/nodo3/scripts/backup.sh
+[nodo3] codigo_salida: 0
+========== BACKUP ==========
+Nodo: nodo3
+Fri Mar 20 23:01:17 UTC 2026

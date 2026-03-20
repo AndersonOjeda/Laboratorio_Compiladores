@@ -1,0 +1,12 @@
+[nodo1] comando: bash cluster/nodo1/scripts/info.sh
+[nodo1] codigo_salida: 0
+========== INFO ==========
+Nodo: nodo1
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          32G  9.8G   20G  33% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/root        29G   17G   13G  57% /vscode
+               total        used        free      shared  buff/cache   available
+Mem:            7944        2414         191          65        5719        5529
+Swap:              0           0           0

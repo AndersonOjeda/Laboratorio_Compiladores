@@ -1,0 +1,5 @@
+[nodo1] comando: bash cluster/nodo1/scripts/cooling.sh
+[nodo1] codigo_salida: 0
+========== COOLING ==========
+Nodo: nodo1
+Sistema de enfriamiento activado
