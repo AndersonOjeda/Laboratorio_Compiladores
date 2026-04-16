@@ -1,0 +1,7 @@
+// ❌ TEST 5: Error - Condición incorrecta en if
+// Error: Una cadena no puede usarse como condición (debe ser booleana/comparación)
+// Esperado: "Condition must evaluate to a boolean expression"
+string s = "hola";
+if (s) {
+  int x = 0;
+}

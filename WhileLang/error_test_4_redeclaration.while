@@ -1,0 +1,5 @@
+// ❌ TEST 4: Error - Redeclaración en el mismo ámbito
+// Error: La variable 'x' ya está declarada en este scope
+// Esperado: "Variable 'x' is already defined in this scope"
+int x = 1;
+string x = "hola";

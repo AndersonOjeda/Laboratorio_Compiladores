@@ -1,0 +1,4 @@
+// ❌ TEST 3: Error - Variable no declarada
+// Error: La variable 'y' no está declarada
+// Esperado: "Variable 'y' is not defined"
+y = 5;

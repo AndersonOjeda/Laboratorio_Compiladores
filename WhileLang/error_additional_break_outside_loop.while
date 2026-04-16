@@ -1,0 +1,5 @@
+// ❌ ADICIONAL: Error - break fuera de bucle
+// Error: break no puede usarse fuera de un bucle
+// Esperado: "break cannot be used outside of a loop"
+int x = 5;
+break;

@@ -1,0 +1,6 @@
+// ❌ TEST 10: Error - Operación aritmética inválida con strings
+// Error: El operador '*' no está soportado para tipo string
+// Esperado: "Operator '*' not supported for type string"
+string s = "hola";
+string t = "mundo";
+string u = s * t;

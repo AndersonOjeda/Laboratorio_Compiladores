@@ -1,0 +1,5 @@
+// ❌ ADICIONAL: Error - continue fuera de bucle
+// Error: continue no puede usarse fuera de un bucle
+// Esperado: "continue cannot be used outside of a loop"
+int x = 5;
+continue;

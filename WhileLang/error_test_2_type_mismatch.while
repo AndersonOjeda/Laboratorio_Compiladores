@@ -1,0 +1,7 @@
+// ❌ TEST 2: Error - Asignación de tipo incorrecto
+// Error: No se puede asignar string a int
+// Esperado: "Type mismatch: cannot assign string to int"
+int x = 10;
+string s = "hola";
+x = s;
+

@@ -1,0 +1,8 @@
+// ❌ TEST 6: Error - Comparación inválida en while con strings
+// Error: El operador '<' no está soportado para tipo string
+// Esperado: "Operator '<' not supported for type string"
+string a = "hola";
+string b = "mundo";
+while (a < b) {
+  break;
+}
